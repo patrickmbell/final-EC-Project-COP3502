@@ -1,0 +1,50 @@
+Public: Accessible by self, derived classes, and everyone else. 
+
+Private: Accessible by self. 
+
+Protected: Accessible by self, derived classes, and other classes in the same package. 
+
+Abstract Class: An abstract class is a class that guides the design of subclasses but cannot itself be instantiated as an object.
+
+Concrete Class: A class that is not abstract, and hence can be instantiated. An abstract class is denoted by the keyword abstract in front of the class definition.
+
+Runtime Polymorphism: the compiler cannot make the determination but instead the determination is made while the program is running.
+
+Polymorphism: refers to determining which program behavior to execute depending on data types.
+
+Interface: a class which defines a set of methods that an implementing class must override and define.
+
+Map Interface: The ___ Interface within the Java Collections Framework defines a Collection that associates (or maps) keys to values.
+
+Linked List: Using a ______ ____ will avoid array add/remove performance issues. 
+
+Heap: The region where the "new" operator allocates memory for objects.
+
+Stack: The region where a method's local variables are allocated during a method call.
+
+Static Keyword: Indicates that the variable or method is tied to the class, not an object.
+
+Garbage Collection: Automatically frees unused memory locations in order to enable memory reuse.
+
+Reference count: the count of all reference variables that are currently referring to an object.
+
+Constructor Overloading: defining multiple constructors differing in parameter types. 
+
+This: used to define variables of specific objects.
+
+Abstract data type (ADT): A data type whose creation and update are constrained to specific well-defined operations.
+
+Primive type: A _________ ____ variable directly stores the data for that variable type, such as int, double, or char.
+
+Reference Type: A variable than can refer to an instance of a class, also known as an object.
+
+Element: Each item in an ArrayList is known as an _______.
+
+ArrayList: An ordered list of reference type items.
+
+Default Constructor: A constructor that can be called without any arguments. 
+
+Switch Statement: A good alternative to an if-else statement that uses a default case. 
+
+ListIterator: An object that points to a location in a List and provides methods to access an element and advance it's position. 
+
